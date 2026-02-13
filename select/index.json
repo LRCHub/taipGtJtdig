@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナツメグ",
+  "base_artist": "PURPLE BUBBLE",
+  "createdAt": "2026-02-13T09:06:36.488724Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナツメグ",
+      "artist": "PURPLE BUBBLE",
+      "has_synced": false,
+      "path": "select/pl_01_ナツメグ_PURPLE_BUBBLE.txt"
+    }
+  ]
+}
